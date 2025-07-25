@@ -43,4 +43,4 @@ We plan to introduce an **Activity Analysis System** 📊 that provides insights
 
 ---
 
-> 👨‍💻 *Built by students, for students — EduForum is a moderately complex Android project ideal for academic portfolios, college projects, and educational hackathons.*
+> ✨ *Built by the students, for the students... empowering campuses, one conversation at a time.*
